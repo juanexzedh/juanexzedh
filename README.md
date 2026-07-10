@@ -14,7 +14,7 @@
 
 ---
 
-# 01 👤 Sobre mí
+# 👤 Sobre mí
 
 ```bash
 juan@github:~$ whoami
@@ -34,41 +34,32 @@ No me interesa desarrollar modelos únicamente por experimentar con IA; prefiero
 
 ---
 
-# 02 📚 Stack Tecnológico
+## 📚 Stack Tecnológico
 
-### Lenguajes
+### 🐍 Lenguajes
 
-```text
-Python      Java      JavaScript
-PHP         SQL       HTML/CSS
-```
-
-### Frameworks & Librerías
-
-```text
-FastAPI
-Flask
-Laravel
-Streamlit
-
-Pandas
-NumPy
-Scikit-Learn
-```
-
-### Herramientas
-
-```text
-Git
-GitHub
-MySQL
-REST APIs
-XAMPP
-```
+Python · Java · JavaScript · PHP · SQL
 
 ---
 
-# 03 💼 Proyectos Destacados
+### ⚙️ Backend
+
+FastAPI · Flask · Laravel · REST APIs
+
+---
+
+### 📊 Ciencia de Datos
+
+Pandas · NumPy · Scikit-Learn
+
+---
+
+### 🛠️ Herramientas
+
+Git · GitHub · MySQL · XAMPP
+
+
+# 💼 Proyectos Destacados
 
 ## 🌎 Predictor de Calidad del Aire
 
@@ -111,13 +102,13 @@ Incluye:
 
 ---
 
-# 04 📅 Actualmente
+# 📅 Actualidad
 
 ```bash
 juan@github:~$ learning
 ```
 
-Estoy fortaleciendo mis conocimientos en
+Me encuentro cursando **séptimo semestre** de Ingenieria de Sistemas, y estoy fortaleciendo mis conocimientos en:
 
 - Machine Learning
 - Ciencia de Datos
@@ -129,7 +120,7 @@ mientras continúo construyendo proyectos que integren estas áreas.
 
 ---
 
-# 05 — Objetivo
+# 🎯 Objetivo
 
 Quiero seguir desarrollando soluciones donde el software, los datos y el Machine Learning trabajen juntos para resolver problemas reales.
 
@@ -137,11 +128,11 @@ Cada proyecto de este perfil representa una oportunidad para aprender una nueva 
 
 ---
 
-# 06 — Contacto
+# 📞 Contacto
 
 📧 correo
 
-💼 LinkedIn
+👀 LinkedIn
 
 🌐 Portafolio
 
