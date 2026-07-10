@@ -1,57 +1,164 @@
-# ¡Hola! Soy Juan Esteban Hernández 👋
+<div align="center">
 
-Soy estudiante de Ingeniería de Sistemas y me apasiona desarrollar soluciones de software que integren desarrollo web, análisis de datos y Machine Learning.
+# Juan Esteban Hernández
 
-Disfruto diseñar un proyecto desde su arquitectura hasta su interfaz final, transformando datos reales en aplicaciones útiles y fáciles de utilizar.
+### *De los Datos a la Solución*
 
-Actualmente desarrollo proyectos relacionados con:
+> *Construyendo software que transforma datos reales en soluciones útiles.*
 
-- 🤖 Machine Learning
-- 📊 Ciencia de Datos
-- 🐍 Desarrollo Backend con Python
-- 🌐 Aplicaciones Web
-- 📈 Visualización de Datos
+<br>
 
----
+**Software Engineering** • **Machine Learning** • **Data Science**
 
-## Tecnologías
-
-Python • Java • JavaScript • HTML • CSS • SQL
-
-FastAPI • Flask • Laravel • Streamlit • REST API
-
-Pandas • NumPy • Scikit-Learn
-
-Git • GitHub • MySQL
+</div>
 
 ---
 
-## Algunos proyectos
+# 01 — Sobre mí
 
-🚀 Predictor de Calidad del Aire
+```bash
+juan@github:~$ whoami
+```
 
-Pipeline completo de Machine Learning utilizando datos reales, entrenamiento automatizado, API REST y una aplicación para realizar predicciones.
+Soy estudiante de **Ingeniería de Sistemas** apasionado por crear aplicaciones donde los datos sean el punto de partida.
 
-📊 Dashboard del Mercado Laboral Colombiano
+Disfruto desarrollar un proyecto de principio a fin:
 
-Aplicación que analiza ofertas laborales mediante Web Scraping, almacenamiento en base de datos y visualización interactiva.
+- Diseñar la arquitectura.
+- Construir el backend.
+- Procesar datos.
+- Entrenar modelos de Machine Learning cuando el problema lo requiere.
+- Diseñar una interfaz limpia para que cualquier persona pueda utilizar la solución.
 
-🎸 Tienda de Guitarras
-
-Aplicación web con catálogo de productos, filtros, historial de compras y simulador de compra.
-
----
-
-## Actualmente
-
-📚 Continuando mi formación en Machine Learning, Ciencia de Datos e Inteligencia Artificial mientras desarrollo proyectos que me permitan aplicar esos conocimientos a problemas reales.
+No me interesa desarrollar modelos únicamente por experimentar con IA; prefiero construir herramientas que resuelvan problemas reales.
 
 ---
 
-## Contacto
+# 02 — Stack Tecnológico
 
+### Lenguajes
+
+```text
+Python      Java      JavaScript
+PHP         SQL       HTML/CSS
+```
+
+### Frameworks & Librerías
+
+```text
+FastAPI
+Flask
+Laravel
+Streamlit
+
+Pandas
+NumPy
+Scikit-Learn
+```
+
+### Herramientas
+
+```text
+Git
 GitHub
+MySQL
+REST APIs
+XAMPP
+```
 
-LinkedIn
+---
 
-Correo
+# 03 — Proyectos Destacados
+
+## 🌎 Predictor de Calidad del Aire
+
+> Pipeline completo de Machine Learning utilizando datos reales.
+
+✔ Limpieza y procesamiento de datos
+
+✔ Entrenamiento del modelo
+
+✔ API REST
+
+✔ Aplicación para realizar predicciones
+
+---
+
+## 💼 Dashboard del Mercado Laboral Colombiano
+
+Aplicación que analiza ofertas laborales mediante Web Scraping.
+
+Características:
+
+- Dashboard interactivo
+- Tecnologías más solicitadas
+- Empresas que más contratan
+- Base de datos local
+- Buscador por palabra clave
+
+---
+
+## 🎸 Tienda de Guitarras
+
+Aplicación web desarrollada con Laravel.
+
+Incluye:
+
+- Catálogo con más de 100 guitarras
+- Filtros de búsqueda
+- Simulador de compra
+- Historial de pedidos
+
+---
+
+# 04 — Actualmente
+
+```bash
+juan@github:~$ learning
+```
+
+Estoy fortaleciendo mis conocimientos en
+
+- Machine Learning
+- Ciencia de Datos
+- NLP
+- Inteligencia Artificial
+- Desarrollo de aplicaciones basadas en datos
+
+mientras continúo construyendo proyectos que integren estas áreas.
+
+---
+
+# 05 — Objetivo
+
+Quiero seguir desarrollando soluciones donde el software, los datos y el Machine Learning trabajen juntos para resolver problemas reales.
+
+Cada proyecto de este perfil representa una oportunidad para aprender una nueva tecnología y aplicarla en un contexto práctico.
+
+---
+
+# 06 — Contacto
+
+📧 correo
+
+💼 LinkedIn
+
+🌐 Portafolio
+
+```
+juanesteban.dev
+```
+
+🐙 GitHub
+
+```
+github.com/juanexzedh
+```
+
+---
+
+<div align="center">
+
+### *"Los datos cuentan historias. El software les da utilidad."*
+
+</div>
