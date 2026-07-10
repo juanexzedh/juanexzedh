@@ -1,6 +1,6 @@
 <div align="center">
 
-# Juan Esteban Hernández
+# Juan Esteban Hernández Gualtero
 
 ### *De los Datos a la Solución*
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 01 — Sobre mí
+# 01 👤 Sobre mí
 
 ```bash
 juan@github:~$ whoami
@@ -34,7 +34,7 @@ No me interesa desarrollar modelos únicamente por experimentar con IA; prefiero
 
 ---
 
-# 02 — Stack Tecnológico
+# 02 📚 Stack Tecnológico
 
 ### Lenguajes
 
@@ -68,7 +68,7 @@ XAMPP
 
 ---
 
-# 03 — Proyectos Destacados
+# 03 💼 Proyectos Destacados
 
 ## 🌎 Predictor de Calidad del Aire
 
@@ -86,7 +86,7 @@ XAMPP
 
 ## 💼 Dashboard del Mercado Laboral Colombiano
 
-Aplicación que analiza ofertas laborales mediante Web Scraping.
+Aplicación que analiza ofertas laborales de Computrabajo mediante Web Scraping.
 
 Características:
 
@@ -111,7 +111,7 @@ Incluye:
 
 ---
 
-# 04 — Actualmente
+# 04 📅 Actualmente
 
 ```bash
 juan@github:~$ learning
