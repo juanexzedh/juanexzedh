@@ -38,26 +38,27 @@ No me interesa desarrollar modelos únicamente por experimentar con IA; prefiero
 
 ### 🐍 Lenguajes
 
-Python · Java · JavaScript · PHP · SQL
+| Python · Java · JavaScript  · SQL · HTML · CSS |
 
 ---
 
 ### ⚙️ Backend
 
-FastAPI · Flask · Laravel · REST APIs
+| FastAPI · Flask · Laravel · REST APIs |
 
 ---
 
 ### 📊 Ciencia de Datos
 
-Pandas · NumPy · Scikit-Learn
+| Pandas · NumPy · Scikit-Learn |
 
 ---
 
 ### 🛠️ Herramientas
 
-Git · GitHub · MySQL · XAMPP
+| Git · GitHub · MySQL · XAMPP |
 
+---
 
 # 💼 Proyectos Destacados
 
