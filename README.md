@@ -30,7 +30,7 @@ Disfruto desarrollar un proyecto de principio a fin:
 - Entrenar modelos de Machine Learning cuando el problema lo requiere.
 - Diseñar una interfaz limpia para que cualquier persona pueda utilizar la solución.
 
-No me interesa desarrollar modelos únicamente por experimentar con IA; prefiero construir herramientas que resuelvan problemas reales.
+Me interesa experimentar con la IA para desarrollar modelos, pero siempre teniendome a mi como orquestador en la construcción de herramientas que resuelvan problemas reales.
 
 ---
 
