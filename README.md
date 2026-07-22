@@ -131,14 +131,26 @@ Cada proyecto de este perfil representa una oportunidad para aprender una nueva 
 
 # 📞 Contacto
 
+```
+(+57) 316 467 8888
+```
+
 📧 correo
 
+```
+juanexzedh@gmail.com
+```
+
 👀 LinkedIn
+
+```
+https://www.linkedin.com/in/juan-esteban-hern%C3%A1ndez-gualtero-3b1498402/
+```
 
 🌐 Portafolio
 
 ```
-juanesteban.dev
+https://juanexzedh.github.io/Portfolio/
 ```
 
 🐙 GitHub
